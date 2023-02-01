@@ -38,3 +38,6 @@ def decode_sentence(sentence)
   end
   decoded_sentence
 end
+
+print decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+# A BOX FULL OF RUBIES
